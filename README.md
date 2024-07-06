@@ -1,0 +1,2 @@
+# Contract_Management
+ContractmanagementSystem-usingSpringBootwithadashboard,  ORM,TailwindCSS,Thymeleaftemplates,responsivedesign,and  secure authentication with GoogleandGitHub.
